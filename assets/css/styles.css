@@ -296,7 +296,7 @@ html body .db {
   border-radius: 100%; }
 
 .theme-cl{
-	color:#da0b4e;
+	color:#07b1c2;
 }
 .theme-bg{
 	background:#da0b4e;
@@ -4886,19 +4886,19 @@ ul.cources_facts_list li:after {
 
 /*---------- Red Dark Color -------------*/
 .btn.btn-modern.dark{
-    background:#da0b4e;
+    background:#07b1c2;
     color:#ffffff;
 }
 .btn.btn-modern.dark span {
     background:#ffffff;
-    color:#da0b4e;
+    color:#07b1c2 ;
 }
 .btn.btn-modern.dark:hover, .btn.btn-modern.dark:focus{
 	background:#ffffff;
-	color:#da0b4e;
+	color:#07b1c2;
 }
 .btn.btn-modern.dark:hover span, .btn.btn-modern.dark:focus span{
-	background:#da0b4e;
+	background:#07b1c2;
 	color:#ffffff;
 }
 
@@ -6191,11 +6191,11 @@ ul.edu_list.third li {
 }
 .slick-dots li button:focus:before, .slick-dots li button:hover:before {
     opacity: 1;
-	background:#da0b4e;
+	background:#0b1d45;
 }
 .slick-dots li.slick-active button:before{
 	opacity: 1;
-	background:#da0b4e;
+	background:#0b1d45;
 }
 
 
