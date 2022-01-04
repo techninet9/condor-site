@@ -1045,6 +1045,9 @@ html body .bg-purple {
 html body .bg-light {
   background-color: #f4f8fa !important; }
 
+.mentor {
+    background-color: #07b1c2 !important; }
+
 html body .bg-light-primary {
   background-color: #f1effd; }
 
@@ -4767,7 +4770,7 @@ ul.cources_facts_list li:after {
 	border-radius:0;
 }
 .trips_wrap.colored{
-    background: #da0b4e;
+    background: #07b1c2;
 }
 .trips_wrap.colored .trips {
     border-right: 1px solid rgba(255, 255,255,0.2);
@@ -4815,9 +4818,9 @@ ul.cources_facts_list li:after {
 }
 /*----------- Modern Btn Style ------------*/
 .btn.btn-modern {
-    background: rgba(218, 11, 78,0.1);
+    background: rgba(7, 177, 194,0.1);
 	transition:all ease 0.4s;
-    color: #da0b4e;
+    color: #07b1c2;
     border-radius: 6px;
     height: 54px;
     padding: 0 5px 0 25px;
@@ -4834,18 +4837,18 @@ ul.cources_facts_list li:after {
     justify-content: center;
 	transition:all ease 0.4s;
     position: relative;
-    background: #da0b4e;
+    background: #07b1c2;
     border-radius: 4px;
     color: #ffffff;
     margin-left: 20px;
 }
 .btn.btn-modern:hover, .btn.btn-modern:focus{
-	background:#da0b4e;
+	background:#07b1c2;
 	color: #ffffff;
 }
 .btn.btn-modern:hover span, .btn.btn-modern:focus span{
 	background:#ffffff;
-	color:#da0b4e;
+	color:#07b1c2;
 }
 
 /*---------- Black Color -------------*/
